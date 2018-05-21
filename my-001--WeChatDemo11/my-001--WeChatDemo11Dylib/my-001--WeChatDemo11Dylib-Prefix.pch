@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'my-001--WeChatDemo11Dylib' target in the 'my-001--WeChatDemo11Dylib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import "/opt/theos/Prefix.pch"  //path/to/theos/Prefix.pch
+#endif
